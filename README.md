@@ -4,7 +4,7 @@ We implemented a discrete-generation Monte Carlo approach in which each parasite
 
 Steps
 1. click on MaxicircleDriftModel.ipynb
-2. click on OpenOnCoalab
+2. click on Open in Colab
 3. Connect the virtual machine
 4. Select the parameters
 5. Run the cells
